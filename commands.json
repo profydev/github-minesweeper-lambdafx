@@ -4,11 +4,8 @@
     "flag D4",
     "clear H1",
     "flag G1",
-<<<<<<< HEAD
     "clear F5",
-    "clear H4"
-=======
+    "clear H4",
     "clear H7"
->>>>>>> main
   ]
 }
